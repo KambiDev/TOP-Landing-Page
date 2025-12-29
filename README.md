@@ -1,1 +1,2 @@
 # TOP-Landing-Page
+This project focuses on mastering Flexbox for modern web layouts, prioritizing precise element alignment, proportional space distribution using flexible containers, and a semantic HTML/CSS structure to ensure a clean, balanced design across all page sections.
